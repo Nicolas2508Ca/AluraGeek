@@ -1,0 +1,22 @@
+{
+  "productos": [
+    {
+      "name": "Crash bandicoot N-sane trilogy",
+      "imageUrl": "https://juegosdigitalescolombia.com/files/images/thumbs/productos_300x400_1538926965-crash-bandicoot-n-sane-trilogy-ps4-primaria.jpg",
+      "price": "100.000 cop",
+      "id": "3"
+    },
+    {
+      "name": "Minecraft",
+      "imageUrl": "https://juegosdigitalescolombia.com/files/images/thumbs/productos_300x400_1649441098-minecraft-ps4-0.jpg",
+      "price": "200.000 cop",
+      "id": "wPGkDC-"
+    },
+    {
+      "name": "Red Dead Redemption",
+      "imageUrl": "https://panamericana.vtexassets.com/arquivos/ids/305659-800-auto?v=636772012192000000&width=800&height=auto&aspect=true",
+      "price": "200000",
+      "id": "ADmNTE_"
+    }
+  ]
+}
